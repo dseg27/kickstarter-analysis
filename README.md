@@ -20,7 +20,7 @@ I extracted this data by counting the number of successful, failed, and cancelle
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90593897/134580950-ab4f4342-36cf-4669-bf20-204393a1501c.png)
 
-The line chart shows that the highest rate of successful campaigns (~80%) occurs when the funding goal is less than $1,000.00. If a higher goal is desired, the chart suggests that Louise may want to aim for a funding goal of $35,000-$40,000 as this range had the second highest success rate. She should definitely avoid a funding goal of $45,000 or greater, as theatre/play campaigns with this funding goal always failed. 
+The line chart shows that the highest rate of successful campaigns (~80%) occurs when the funding goal is less than $1,000. If a higher goal is desired, the chart suggests that Louise may want to aim for a funding goal of $35,000-$40,000 as this range had the second highest success rate. She should definitely avoid a funding goal of $45,000 or greater, as theatre/play campaigns with this funding goal were not as successful as those with funding goals less than $1,000. 
 
 ### Challenges and Difficulties Encountered 
 I encountered some difficulty in creating the pivot chart to ultimately create a graph with goals on the independent axis, and percentage outcomes on the y-axis. It took some thinking but ultimately, it made sense. I learned how pivot tables can provide many unique ways to visualize your data. It does take some thinking to know where you should put certain values or variables to ultimately create a chart that is intuitive for readers, like Louise, to understand. 
