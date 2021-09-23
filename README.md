@@ -29,16 +29,16 @@ I encountered some difficulty in creating the pivot chart to ultimately create a
 
 **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
-	1) Per the data we have, the best month to launch a campaign for a play would be May.
-	2) The worst month to launch a campaign for a play would be December. 
+- Per the data we have, the best month to launch a campaign for a play would be May.
+- The worst month to launch a campaign for a play would be December. 
 
 **What can you conclude about the Outcomes based on Goals?**
 
-	1) Campaigns with funding goals that are less than $1,000 tend to be more successful than those with higher funding goals, such as $45,000 or higher.  
+- Campaigns with funding goals that are less than $1,000 tend to be more successful than those with higher funding goals, such as $45,000 or higher.  
 
 **What are some limitations of this dataset?**
 
-	Our data is limited in that we do not have information on additional factors that may drive results. Such factors include play genres, length of funding time, and information on how popular plays are in different countries. With additional data, we could see if some play genres do better than others, if there is a "sweet spot" for campaign funding length, and which countries may like plays more than other countries. This information would also be useful to Louise to give her the best chance at a successful production. 
+Our data is limited in that we do not have information on additional factors that may drive results. Such factors include play genres, length of funding time, and information on how popular plays are in different countries. With additional data, we could see if some play genres do better than others, if there is a "sweet spot" for campaign funding length, and which countries may like plays more than other countries. This information would also be useful to Louise to give her the best chance at a successful production. 
 
 **What are some other possible tables and/or graphs that we could create?**
 Since we do have data on countries, we could graph this information against campaign outcomes to try and find a relationship between which countries may have more successful play campaigns. We could also add in backer count to see if we find a country that has more play backers. 
