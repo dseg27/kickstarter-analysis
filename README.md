@@ -9,10 +9,17 @@ The purpose of this challenge was to create a report for Louise that visualizes 
 
 ### Analysis of Outcomes Based on Launch Date
 I created a chart by extracting the launch date of each campaign and noting the outcome for that particular campaign. The outcomes for each possible result (successful, failed, cancelled) were added together and plotted against the date to see if there was a trend. 
+
+![Theatre_Outcomes_vs_Launch_Date](https://user-images.githubusercontent.com/90593897/134580901-8b6346ad-1031-4421-bd61-b082464a2534.png)
+
 The line chart shows that campaigns with a launch date in May had the highest number of successful campaigns. Lousie could take this into consideration and may want to launch campaigns in May as opposed to the end of the year, where there were the least amount of successful campaigns.  
 
 ### Analysis of Outcomes Based on Goals
+
 I extracted this data by counting the number of successful, failed, and cancelled theatre/play campaigns within different funding goal brackets by using the COUNTIFS feature in Excel. The percentage of outcomes was then plotted against the different funding goal brackets to find trends.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/90593897/134580950-ab4f4342-36cf-4669-bf20-204393a1501c.png)
+
 The line chart shows that the highest rate of successful campaigns (~80%) occurs when the funding goal is less than $1,000.00. If a higher goal is desired, the chart suggests that Louise may want to aim for a funding goal of $35,000-$40,000 as this range had the second highest success rate. She should definitely avoid a funding goal of $50,000 or greater, as theatre/play campaigns with this funding goal always failed. 
 
 ### Challenges and Difficulties Encountered 
